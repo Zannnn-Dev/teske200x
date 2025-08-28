@@ -19,7 +19,7 @@ const products = {
             name: "Script Nika V14",
             price: "Rp 35.000",
             description: "RESELLER : 70K PARTNER : 120K",
-            image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756361241903-4qbruk.jpg",
+            image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756380232597-ttjfzh.jpg",
             checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20script%20nika%v14%20dengan%20harga%20Rp%2035.000.%20Berikut%20bukti%20pembayarannya."
         },
     ],
