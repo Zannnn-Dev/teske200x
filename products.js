@@ -43,7 +43,7 @@ const products = {
             name: "Murband",
             price: "Rp 20.000",
             description: "Auto Jadi Kang Band🗿.",
-            image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756362253207-7uz8ub.jpg",
+            image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756364908018-9rpe9r.jpg",
             checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20Murband%20dengan%20harga%20Rp%20.000.%20Berikut%20bukti%20pembayarannya."
         },
     ]
