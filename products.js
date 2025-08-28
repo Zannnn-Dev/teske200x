@@ -32,7 +32,7 @@ const products = {
             price: "Rp 70.000",
             description: "FREE UPDATE : 100K RESSELER : 130K PARTNER 170K",
             image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756361781396-tjerj6.jpg",
-            checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20script%20tredic%invictus%20v35%3x%20up%20dengan%20harga%20Rp%2070.000.%20Berikut%20bukti%20pembayarannya."
+            checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20script%20tredic%20invictus%20v35%203x%20up%20dengan%20harga%20Rp%2070.000.%20Berikut%20bukti%20pembayarannya."
         },
     ],
     
@@ -44,7 +44,7 @@ const products = {
             price: "Rp 20.000",
             description: "Auto Jadi Kang Band🗿",
             image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756362253207-7uz8ub.jpg",
-            checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20Murband%20dengan%20harga%20Rp%20.000.%20Berikut%20bukti%20pembayarannya."
+            checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20murband%20dengan%20harga%20Rp%2020.000.%20Berikut%20bukti%20pembayarannya."
         },
     ]
 };
