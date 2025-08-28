@@ -1,6 +1,6 @@
 # 🌟 Web Store Sederhana
 
-![Website Preview](https://github.com/DikaMods)  
+![Website Preview](https://webstore-dikamods.vercel.app)  
 *Preview tampilan website*
 
 ## 📌 Overview
