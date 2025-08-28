@@ -6,7 +6,7 @@ const products = {
             id: "c1p1",
             name: "Script Justin V21",
             price: "Rp 60.000",
-            description: "BUYER VIP PERMANEN : 100K,RESSELER NO IDENT : 80K,RESSELER IDENT : 130K",
+            description: "BUYER VIP PERMANEN : 100K RESSELER NO IDENT : 80K RESSELER IDENT : 130K",
             image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756378959815-arc49x.jpg",
             checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20script%20justin%20offcial%20v21%20dengan%20harga%20Rp%2060.000.%20Berikut%20bukti%20pembayarannya."
         },
@@ -18,9 +18,9 @@ const products = {
             id: "c2p1",
             name: "Script Nika V14",
             price: "Rp 35.000",
-            description: "• RESELLER : 70K,PARTNER : 120K.",
-            image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756364848485-6k4f4y.jpg",
-            checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20script%20nika%20v14%20dengan%20harga%20Rp%2035.000.%20Berikut%20bukti%20pembayarannya."
+            description: "RESELLER : 70K PARTNER : 120K",
+            image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756361241903-4qbruk.jpg",
+            checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20script%20nika%v14%20dengan%20harga%20Rp%2035.000.%20Berikut%20bukti%20pembayarannya."
         },
     ],
     
@@ -30,7 +30,7 @@ const products = {
             id: "c3p1",
             name: "Script Tredic Invictus V35.00",
             price: "Rp 70.000",
-            description: "FREE UPDATE : 100K,RESSELER : 130K,PARTNER 170K.",
+            description: "FREE UPDATE : 100K RESSELER : 130K PARTNER 170K",
             image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756361781396-tjerj6.jpg",
             checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20script%20tredic%invictus%20v35%3x%20up%20dengan%20harga%20Rp%2070.000.%20Berikut%20bukti%20pembayarannya."
         },
@@ -42,8 +42,8 @@ const products = {
             id: "c4p1",
             name: "Murband",
             price: "Rp 20.000",
-            description: "Auto Jadi Kang Band🗿.",
-            image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756364908018-9rpe9r.jpg",
+            description: "Auto Jadi Kang Band🗿",
+            image: "https://raw.githubusercontent.com/NdikzDatabase/Database/main/Database/1756362253207-7uz8ub.jpg",
             checkoutUrl: "https://wa.me/6281802038115?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20Murband%20dengan%20harga%20Rp%20.000.%20Berikut%20bukti%20pembayarannya."
         },
     ]
